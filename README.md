@@ -1,4 +1,4 @@
-﻿# ≡ƒÜÇ Quantum-Enhanced AI Investment Recommendation System
+﻿#  Quantum-Enhanced AI Investment Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## ≡ƒôï Table of Contents
+## ≡ Table of Contents
 
 1. [Overview](#overview)
 2. [Key Features](#-key-features)
@@ -32,7 +32,7 @@
 
 ---
 
-## ≡ƒôû Overview
+##  Overview
 
 **Quantum-Enhanced AI Investment Recommendation System** is a production-grade FinTech platform that combines **Quantum Computing** with **Generative AI** to provide sophisticated investment analysis and portfolio optimization.
 
@@ -47,7 +47,7 @@ This platform is designed for institutional investors, wealth managers, and fint
 
 ---
 
-## ≡ƒÄ» Key Features
+##  Key Features
 
 ### 1. **Quantum Portfolio Optimization** ≡ƒö¼
 - Implements **Quantum Approximate Optimization Algorithm (QAOA)** from IBM Qiskit
@@ -145,7 +145,7 @@ This platform is designed for institutional investors, wealth managers, and fint
 
 ---
 
-## ≡ƒ¢á Technology Stack
+##  Technology Stack
 
 ### Backend
 | Technology | Version | Purpose |
@@ -203,7 +203,7 @@ This platform is designed for institutional investors, wealth managers, and fint
 
 ---
 
-## ΓÜÖ∩╕Å Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.11 or higher
@@ -354,7 +354,7 @@ quantum-computing-investment-recommendations-system/
 
 ---
 
-## ≡ƒöº Configuration
+##  Configuration
 
 ### Environment Variables Explained
 
@@ -382,7 +382,7 @@ quantum-computing-investment-recommendations-system/
 
 ---
 
-## ≡ƒÜÇ Usage
+##  Usage
 
 ### Web Interface
 
@@ -426,7 +426,7 @@ GET /api/market/news/{symbol}
 
 ---
 
-## ≡ƒùä Database Schema
+##  Database Schema
 
 ### Users Table
 ```sql
@@ -480,7 +480,7 @@ CREATE TABLE recommendations (
 
 ---
 
-## ≡ƒö¼ Quantum Computing Integration
+##  Quantum Computing Integration
 
 ### Quantum Approximate Optimization Algorithm (QAOA)
 
@@ -511,7 +511,7 @@ optimal_weights = extract_solution(result)
 
 ---
 
-## ≡ƒñû AI/ML Pipeline
+## AI/ML Pipeline
 
 ### Gemini LLM Integration
 
@@ -540,7 +540,7 @@ response = gemini_client.generate_content(gemini_prompt)
 
 ---
 
-## ≡ƒöÉ Security
+## Security
 
 ### Authentication & Authorization
 
@@ -565,7 +565,7 @@ response = gemini_client.generate_content(gemini_prompt)
 
 ---
 
-## ΓÜí Performance Optimization
+##  Performance Optimization
 
 ### Caching Strategies
 - Redis caching for market data
@@ -585,7 +585,7 @@ response = gemini_client.generate_content(gemini_prompt)
 
 ---
 
-## ≡ƒÉ¢ Troubleshooting
+##  Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -635,7 +635,7 @@ Solution:
 
 ---
 
-## ≡ƒôè Performance Metrics
+##  Performance Metrics
 
 ### Backtesting Results
 
@@ -654,7 +654,7 @@ The system has been backtested against historical data:
 
 ---
 
-## ≡ƒñ¥ Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -672,13 +672,13 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## ≡ƒô¥ License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## ≡ƒô₧ Support & Contact
+##  Support & Contact
 
 - **Issues**: GitHub Issues
 - **Email**: support@quantum-invest.dev
@@ -686,7 +686,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## ≡ƒÄô Educational Resources
+##  Educational Resources
 
 ### Quantum Computing
 - [Qiskit Documentation](https://qiskit.org/documentation/)
@@ -702,7 +702,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## ≡ƒÜÇ Roadmap
+## Roadmap
 
 ### v2.0 (Planned)
 - [ ] Multi-currency support
@@ -719,7 +719,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## Γ¡É Acknowledgments
+## Acknowledgments
 
 - IBM Qiskit team for quantum computing framework
 - Google for Gemini LLM API
